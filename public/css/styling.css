@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    height: 182px;
+    display: flex;
+}
+
+.logo{
+    width: 200px;
+    height: 180px;
+    margin: 0 30px;
+}
+
+.heading-1{
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.text-info{
+    color: black !important;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.text-info-year{
+    color: black !important;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: flex;
+}
+
+.group-commerce{
+    width: 100%;
+    height: 100%;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.main-form-input{
+    /* display: none; */
+}
+
+.form-input{
+    margin: 10px 20px;
+}
+
+.forms-info{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.forms-info input{
+    width: 1000px;
+}
+
+.tick-mark{
+    font-size: 1rem !important; /*Not Work*/
+    text-align: center;
+}
+
+.table-subjects{
+    margin: 10px 30px;
+    width: 350px;
+}
+
+.select{
+    margin: 10px 30px;
+}
+
+.fee-schedule{
+    width: 250px;
+    height: 100%;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    margin: 10px 30px;
+}
